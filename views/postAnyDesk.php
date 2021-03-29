@@ -14,15 +14,15 @@
 					<div class="blog-post single-post">
 						<img src="img/blog/1.jpg" alt="">
 						<div class="post-date">Marzo 12, 2021</div>
-						<h3>The best games of 2019</h3>
+						<h3>El software de escritorio remoto</h3>
 						<div class="post-metas">
 							<div class="post-meta">Por Soley</div>
 							<div class="post-meta">En Tutoriales <a href="#">Software</a></div>
 							<div class="post-meta">Comentarios</div>
 						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas ac-cumsan lacus vel facilisis. Fusce urna quam, euismod sit amet mollis quis, vestibulum quis velit. Morbi id dictum quam, ut commodo lorem. In at nisi nec arcu porttitor aliquet vitae at dui. </p>
-						<p>Donec eget efficitur ex. Donec eget dolor vitae eros feugiat tristique id vitae massa. Proin vulputate congue rutrum. Fusce lobortis a enim eget tempus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse potenti. Ut gravida mattis magna, non varius lorem sodales nec. In libero orci, ornare non nisl a, auctor euismod purus. Morbi pretium interdum vestibulum. Fusce nec eleifend ipsum. Sed non blandit tellus.</p>
-						<p>Fusce urna quam, euismod sit amet mollis quis, vestibulum quis velit. Vestibulum malesuada aliquet libero viverra cursus. Aliquam erat volutpat. Morbi id dictum quam, ut commodo lorem. In at nisi nec arcu porttitor aliquet vitae at dui. Sed sollicitudin nulla non leo viverra scelerisque. Phasellus facilisis lobortis metus, sit amet viverra lectus finibus ac. Aenean non felis dapibus, placerat libero auctor, ornare ante. Morbi quis ex eleifend, sodales nulla vitae, scelerisque ante. Nunc id vulputate dui. Suspendisse consecte-tur rutrum metus nec scelerisque. </p>
+						<p>El software de escritorio remoto
+							AnyWhere. AnyTime. AnyDesk </p>
+						<p>Conéctese a un ordenador de forma remota desde el otro extremo de la oficina o desde cualquier parte del mundo. Gracias a AnyDesk, contará con conexiones seguras y fiables de escritorio remoto para profesionales informáticos y usuarios en movimiento.</p>
 
 						<div class="comments">
 							<h5>Comments (2)</h5>
